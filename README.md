@@ -10,3 +10,4 @@ The following folders are included in this repository
 * aws/ - Pyton modules/scripts used to query and manage AWS resources.
 * conf/ - Information on setting up/using AWS process.  This includes config, credentials, etc. files.
 * bash/ - AWS related bash scripts.
+
